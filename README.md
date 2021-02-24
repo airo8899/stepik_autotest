@@ -1,5 +1,5 @@
 # stepik_autotest
 Тестовый проект
 
-Установи библеотеку Faker
+Установи библиотеку Faker
 pip install Faker
